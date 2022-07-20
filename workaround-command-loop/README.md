@@ -94,6 +94,8 @@ $callback.create('tick', 1, true);
 
             }
 
+            commandQueue.splice(0, 1);
+
         }
 
     }
