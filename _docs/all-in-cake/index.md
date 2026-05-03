@@ -171,11 +171,69 @@ If you don't want to see certain words in the chat, you can add them to **banned
 
 **Whispering** allows user to "whisper" to eachother in the chat. This is done using the command `/whisper @[user] [message]`.
 
+### Chat icons
+
+![Chat icon settings](image-26.png)
+
+![Chat icon in action](image-27.png)
+
 **Chat icons** are emoji or emoticons that are shown next to users' names. You can set different icons to different user groups, and also give icons to any users with the command `/seticon @[user] [icon]`.
 
 </details>
 
 
+<details>
+
+<summary><b>👱 Follower notifications</b></summary>
+
+The app allows you to keep track of daily followers and unfollowers, and also sends them a thank-you message.
+
+&nbsp;
+
+![Follow announcement setting](image-28.png)
+
+![Follow announcement in action](image-32.png)
+
+The **follow announcements** setting will change, who (if anyone) will see the "User followed (+1)" notifications.
+
+&nbsp;
+
+![Unfollow notification setting](image-29.png)
+
+![Unfollow notification in action](image-33.png)
+
+By unchecking the **show unfollows as well** checkbox, you will only see the follow notifications.
+
+&nbsp;
+
+![Follow thank-you message](image-30.png)
+
+![Thank you message for user](image-31.png)
+
+The **follow thank-you message** is sent to new followers. Leave this field empty to disable the thank-you message.
+
+</details>
+
+
+<details>
+
+<summary><b>💰️ Top Tippers</b></summary>
+
+![Top tipper settings](image-36.png)
+
+![Top-5 All Time](image-34.png)
+
+![Top-5 Today](image-35.png)
+
+The app keeps track of your daily and overall tippers. If you want, it will announce your daily Top-3 tippers (if any).
+
+&nbsp;
+
+![Keep all tip stats setting](image-37.png)
+
+**You can choose to keep tipper statistics forever.** This may cause lag and issues, and by default, the app deletes past tipping history after a while.
+
+</details>
 
 <details>
 
